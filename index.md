@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Blockchain and Distributed Systems Security Lab
 
 You can use the [editor on GitHub](https://github.com/arbuchade/bdsl.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
